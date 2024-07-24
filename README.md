@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nikhil2003portfolio.netlify.app/](https://nikhil2003portfolio.netlify.app/)
 
-- 💬 Ask me about **MERN ,AWS ,ML ,Django**
+- 💬 Ask me about **MERN ,AWS ,ML(Beginner) ,Django**
 
 - 📫 How to reach me **nikhilpaikray18@gmail.com**
 
